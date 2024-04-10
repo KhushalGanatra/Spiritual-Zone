@@ -49,5 +49,5 @@ Welcome to our Spiritual Packages Travel Website repository! This project is a P
   Create a new Pull Request
 
 # Contact
-  For inquiries or feedback, please contact us at khushalganatra26@gmail.com.
+  For inquiries or feedback, please contact us at khushalganatra26@gmail.com .
   
